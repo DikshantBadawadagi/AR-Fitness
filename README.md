@@ -2,7 +2,7 @@
 # AR Fitness(Augmented Reality Fitness )
 
 ## Authors
-
+- [@DikshantBadawadagi](https://www.github.com/DikshantBadawadagi)
 - [@atharvamulgund](https://www.github.com/atharvamulgund)
 - [@angadsinghobbi](https://github.com/angadsinghob)
 - [@tejasphanse](https://github.com/TejasPhanse12)
